@@ -1,2 +1,2 @@
 # amazonclone
-basic clone html and css 
+basic amazon clone (html and css )
